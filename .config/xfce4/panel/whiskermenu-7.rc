@@ -1,5 +1,5 @@
 favorites=exo-preferred-applications.desktop,exo-file-manager.desktop,urxvt.desktop,firefox.desktop,filezilla.desktop,discord.desktop,telegramdesktop.desktop,xfce-ui-settings.desktop,xfce-wm-settings.desktop,qt5ct.desktop
-recent=firefox.desktop,exo-file-manager.desktop,pidgin.desktop,urxvt.desktop,ca.desrt.dconf-editor.desktop,xfce-wmtweaks-settings.desktop,xfce-mouse-settings.desktop,qt5ct.desktop,wps-office-wpp.desktop,xfce-ui-settings.desktop
+recent=
 button-title=\ 
 button-icon=/usr/share/pixmaps/xfce4-panel-menu.png
 button-single-row=false

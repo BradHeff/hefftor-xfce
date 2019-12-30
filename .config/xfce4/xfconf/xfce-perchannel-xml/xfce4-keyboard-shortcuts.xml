@@ -43,7 +43,6 @@
       <property name="&lt;Primary&gt;&lt;Shift&gt;Escape" type="string" value="xfce4-taskmanager"/>
       <property name="Print" type="string" value="xfce4-screenshooter -f"/>
       <property name="&lt;Alt&gt;F3" type="string" value="xfce4-appfinder"/>
-      <property name="&lt;Shift&gt;&lt;Super&gt;d" type="string" value="dmenu_run -i -nb &apos;#191919&apos; -nf &apos;#fea63c&apos; -sb &apos;#fea63c&apos; -sf &apos;#191919&apos; -fn &apos;NotoMonoRegular:bold:pixelsize=14&apos;"/>
       <property name="&lt;Super&gt;f" type="string" value="exo-open --launch FileManager"/>
       <property name="&lt;Super&gt;t" type="string" value="urxvt"/>
       <property name="&lt;Super&gt;w" type="string" value="exo-open --launch WebBrowser"/>
@@ -95,6 +94,7 @@
       <property name="F12" type="string" value="xfce4-terminal --drop-down"/>
       <property name="&lt;Super&gt;k" type="string" value="betterlockscreen -l dimblur"/>
       <property name="&lt;Super&gt;l" type="string" value="betterlockscreen -l dimblur"/>
+      <property name="&lt;Shift&gt;&lt;Super&gt;d" type="string" value="dmenu_run -i -nb &apos;#191919&apos; -nf &apos;#f5dec9&apos; -sb &apos;#e49994&apos; -sf &apos;#2a315b&apos; -fn &apos;Roboto:bold:pixelsize=13&apos;"/>
     </property>
   </property>
   <property name="xfwm4" type="empty">

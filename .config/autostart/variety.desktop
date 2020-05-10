@@ -13,7 +13,6 @@ Name[sr]=Историјат
 Name[tr]=Geçmiş
 Name[uk]=Історія
 Name[zh_CN]=历史
-OnlyShowIn=Unity;
 
 [Desktop Action Next]
 Exec=variety --next
@@ -30,7 +29,6 @@ Name[sr]=Следећа
 Name[tr]=İleri
 Name[uk]=Наступні
 Name[zh_CN]=下一个
-OnlyShowIn=Unity;
 
 [Desktop Action PauseResume]
 Exec=variety --toggle-pause
@@ -47,7 +45,6 @@ Name[sr]=Застани / Настави
 Name[tr]=Duraklat / Devam
 Name[uk]=Призупинити / Продовжити
 Name[zh_CN]=暂停 / 恢复
-OnlyShowIn=Unity;
 
 [Desktop Action Preferences]
 Exec=variety --preferences
@@ -64,7 +61,6 @@ Name[sr]=Поставке
 Name[tr]=Tercihler
 Name[uk]=Налаштування
 Name[zh_CN]=首选项
-OnlyShowIn=Unity;
 
 [Desktop Action Previous]
 Exec=variety --previous
@@ -81,7 +77,6 @@ Name[sr]=Претходна
 Name[tr]=Geri
 Name[uk]=Попередні
 Name[zh_CN]=上一个
-OnlyShowIn=Unity;
 
 [Desktop Entry]
 Actions=Next;Previous;PauseResume;History;Preferences;
@@ -120,6 +115,7 @@ Name[sr]=Разноврсност
 Name[tr]=Variety
 Name[uk]=Variety
 Path=
+X-GNOME-Autostart-enabled=true
 StartupNotify=false
 Terminal=false
 TerminalOptions=

@@ -78,6 +78,7 @@
       </property>
       <property name="show-frame" type="bool" value="false"/>
       <property name="names-ordered" type="array">
+        <value type="string" value="blueman-tray"/>
         <value type="string" value="pidgin"/>
         <value type="string" value="evolution-alarm-notify"/>
         <value type="string" value="insync"/>

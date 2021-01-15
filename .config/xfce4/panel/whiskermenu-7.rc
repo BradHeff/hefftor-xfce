@@ -1,4 +1,4 @@
-favorites=exo-preferred-applications.desktop,exo-file-manager.desktop,urxvt.desktop,firefox.desktop,filezilla.desktop,discord.desktop,telegramdesktop.desktop,xfce-ui-settings.desktop,xfce-wm-settings.desktop,qt5ct.desktop
+favorites=xfce4-file-manager.desktop,urxvt.desktop,xfce-ui-settings.desktop,xfce-wm-settings.desktop,qt5ct.desktop
 recent=
 button-title=\ 
 button-icon=/usr/share/pixmaps/hefftorlinux-white.png
@@ -13,9 +13,10 @@ hover-switch-category=true
 category-show-name=true
 category-icon-size=2
 load-hierarchy=true
+view-as-icons=false
+default-category=0
 recent-items-max=10
 favorites-in-recent=true
-display-recent-default=false
 position-search-alternate=true
 position-commands-alternate=true
 position-categories-alternate=true
